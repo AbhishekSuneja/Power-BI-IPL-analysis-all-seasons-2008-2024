@@ -1,6 +1,6 @@
 # Power-BI-IPL-analysis-all-seasons-2008-2024
 ## Objective:
-This project involved creating a comprehensive Power BI dashboard for the IPL data spanning from 2008 to 2024. The objective is to visualize key metrics and performance indicators across all seasons to provide detailed insights into player and team performances to the stakeholders which are BCCI board members, ultimately helping them with team selection for the T-20 World Cup 2024.
+This project involved creating a comprehensive Power BI dashboard for the IPL data spanning from 2008 to 2024. The objective is to visualize key metrics and performance indicators across all seasons to provide detailed insights into player and team performances to the stakeholders which are BCCI board members and all IPL team's franchise owners, ultimately helping them with team selection for the upcoming seasons based on data-driven decisions.
 
 ## Description:
 Using Power BI, I developed an interactive dashboard for IPL data from 2008 to 2024. This dashboard includes various metrics such as total runs, wickets, strike rates, and team performance statistics. The visualizations provide an in-depth analysis of players' and teams' performances across different seasons.
